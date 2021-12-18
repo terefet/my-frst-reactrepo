@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="content">
         <h1>App Commponent</h1>
-        <h2>Terefe</h2>
+        <h2>Terefe comming home soon</h2>
         <h3>{title}</h3>
       </div>
     </div>
