@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
   const title = "welcme to the new blog"
   const link = 'http://www.google.com';
   return (
     <div className="App">
+      <Navbar />
       <div className="content">
         <h1>App Commponent</h1>
         <h2>Terefe comming home soon</h2>
